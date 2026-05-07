@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Arseniy 👋
 
-<!--
-**zowelqqee/zowelqqee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer building systems that work in production.
 
-Here are some ideas to get you started:
+## 🔨 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 **JARVIS** — real-time voice AI assistant with intent classification (99.88% accuracy), CI/CD, and drift detection
+- 👁️ **ARIA** — AR assistant with computer vision: face detection, face recognition, real-time object detection (YOLOv8)
+
+## 🛠️ Stack
+
+Python · scikit-learn · FastAPI · MLflow · OpenCV · YOLOv8 · Google Gemini · Next.js · TypeScript
+
+## 📍 Currently
+
+- 🎓 Studying CS · Starting Fall 2026
+- 📍 Tenerife, Spain · EU Residence Permit
+- 💼 Open to remote AI/ML roles
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arseniy-abramidze-14946727b)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:zowel.aep@gmail.com)

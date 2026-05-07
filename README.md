@@ -1,23 +1,40 @@
+```md
 # Hi, I'm Arseniy 👋
 
-AI/ML Engineer building systems that work in production.
+AI/ML Engineer building deterministic AI systems and automation tools for real-world workflows.
 
-## 🔨 What I'm building
+## 🔨 Projects
 
-- 🤖 **JARVIS** — real-time voice AI assistant with intent classification (99.88% accuracy), CI/CD, and drift detection
-- 👁️ **ARIA** — AR assistant with computer vision: face detection, face recognition, real-time object detection (YOLOv8)
+### 🤖 JARVIS
+Real-time voice AI assistant with deterministic command execution, intent classification, browser automation, CI/CD, and explicit execution boundaries.
+
+- NLP intent routing
+- FastAPI production backend
+- MLflow experiment tracking
+- Parser → Validator → Planner → Executor architecture
+- Voice + system control integration
+
+### 👁️ ARIA
+AR/Edge AI assistant with computer vision running on constrained hardware.
+
+- Face detection & recognition
+- Real-time object detection (YOLOv8)
+- OpenCV pipeline
+- Edge-device optimized architecture
+- Server-side vector memory
 
 ## 🛠️ Stack
 
-Python · scikit-learn · FastAPI · MLflow · OpenCV · YOLOv8 · Google Gemini · Next.js · TypeScript
+Python · FastAPI · scikit-learn · MLflow · Pandas · OpenCV · YOLOv8 · Playwright · Gemini API · Next.js · TypeScript
 
 ## 📍 Currently
 
-- 🎓 Studying CS · Starting Fall 2026
-- 📍 Tenerife, Spain · EU Residence Permit
-- 💼 Open to remote AI/ML roles
+- 🎓 Computer Science · Starting Fall 2026
+- 📍 Saint Petersburg
+- 💼 Open to full-time / hybrid AI & backend roles
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arseniy-abramidze-14946727b)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:zowel.aep@gmail.com)
+[LinkedIn](https://linkedin.com/in/arseniy-abramidze-14946727b)  
+[Email](mailto:zowel.aep@gmail.com)
+```

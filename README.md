@@ -31,7 +31,7 @@ Python · FastAPI · scikit-learn · MLflow · Pandas · OpenCV · YOLOv8 · Pla
 ## 📍 Currently
 
 * 🎓 Computer Science · Starting Fall 2026
-* 📍 Saint Petersburg
+* 📍 Tenerife, Spain
 * 💼 Open to full-time / hybrid AI & backend roles
 
 ## 📫 Connect

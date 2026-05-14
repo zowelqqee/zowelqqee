@@ -1,6 +1,6 @@
 # Hi, I'm Arseniy 👋
 
-AI/ML Engineer building deterministic AI systems and automation tools for real-world workflows.
+Building deterministic AI assistants and automation systems focused on reliability and explicit execution.
 
 ## 🔨 Projects
 

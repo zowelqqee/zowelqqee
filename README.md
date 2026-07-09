@@ -1,104 +1,122 @@
 # Hi, I'm Arseniy 👋
 
-I build AI systems, deterministic assistants, and automation tools focused on reliability, explicit execution, and real-world use.
+I build AI systems, machine learning infrastructure, and production
+backend services.
 
-My main interests are ML systems, deep learning, computer vision, reasoning engines, backend architecture, and AI agents that can actually execute tasks safely.
+My current focus is on AI runtime architecture, deep learning, reasoning
+systems, explicit memory, and reliable AI execution.
 
 ## 🧠 Focus
 
-* ML systems and AI infrastructure
-* Deep learning and computer vision
-* Deterministic AI assistants
-* Agent workflows and execution boundaries
-* Graph-based reasoning and memory systems
-* Backend systems for AI products
+-   Machine Learning
+-   Applied AI
+-   AI Systems
+-   Deep Learning
+-   Reasoning Systems
+-   Information Retrieval
+-   Dialogue Systems
+-   Computer Vision
+-   AI Infrastructure
+-   Backend Engineering
 
-## 🔨 Projects
-
-### 🌍 Soft Landing
-
-Relocation workflow platform for people moving abroad, focused on structured roadmaps, document preparation, advisor review, and partner handoff.
-
-The product is built around a simple idea: relocation should feel like a guided execution system, not a chaotic checklist in chats, PDFs, and spreadsheets.
-
-- Personalized relocation roadmap
-- Visa / residency route tracking
-- Step-by-step document preparation flow
-- Advisor review request system
-- Partner handoff logic
-- Email notifications via Resend
-- Google OAuth authentication
-- Multi-language interface
-- Supabase database and backend logic
-- Next.js / TypeScript product architecture
-
-Current direction:
-
-- User intake → structured case profile
-- Roadmap generation → task-based execution
-- Document checklist → advisor review
-- Partner notification → human handoff
-- Long-term idea: AI-assisted relocation operator
-
-  
-### 🤖 JARVIS
-
-Real-time voice AI assistant with deterministic command execution, intent classification, browser automation, CI/CD, and explicit execution boundaries.
-
-* Voice command processing
-* NLP intent routing
-* FastAPI production backend
-* Parser → Validator → Planner → Executor architecture
-* Browser and system automation
-* CI/CD and structured backend workflows
-* MLflow experiment tracking
-
-### 👁️ ARIA
-
-AR / Edge AI assistant with computer vision running on constrained hardware.
-
-* Real-time object detection
-* Face detection and recognition
-* YOLOv8 and OpenCV pipeline
-* Edge-device optimized architecture
-* Server-side vector memory
-* Vision-to-action assistant flow
+## 🚀 Featured Projects
 
 ### 🧩 Microworld
 
-Experimental reasoning engine based on structured knowledge, graph patterns, relation trust, and explicit prediction logic.
+Experimental semantic AI runtime exploring an alternative AI
+architecture based on explicit semantic memory, deterministic reasoning,
+dialogue state, and controlled language generation.
 
-The goal is to explore an alternative direction for AI memory and reasoning: less brute-force scaling, more structure, auditability, and controllable inference.
+Instead of relying on a single neural model for every stage of
+inference, Microworld separates memory, reasoning, dialogue, and
+language into explicit, inspectable runtime components.
 
-* ConceptNet import pipeline
-* Pattern discovery
-* Structural similarity
-* Concept discovery
-* Pattern-based prediction
-* Mixed-pattern reasoning
-* Hub penalty and relation trust
-* Human audit pipeline
-* Trust transfer experiments
+**Current highlights**
 
-## 🛠️ Stack
+-   Explicit semantic memory
+-   Deterministic reasoning engine
+-   Dialogue state & reference resolution
+-   Controlled language renderer
+-   Knowledge Pump ingestion pipeline
+-   Explainable execution traces
+-   1000/1000 deterministic benchmark
+-   p50 latency ≈ 8 ms on Apple M1 CPU
+-   Local runtime without GPU inference
 
-Python · FastAPI · scikit-learn · MLflow · Pandas · NumPy · OpenCV · YOLOv8 · Playwright · GitHub Actions · Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS
+### 🤖 JARVIS
 
-## 📚 Currently learning deeper
+Voice-first AI assistant for deterministic task execution.
 
-* Deep learning systems
-* Computer vision pipelines
-* AI agent architecture
-* Graph-based reasoning
-* ML evaluation and experiment tracking
-* Production backend design for AI products
+-   Voice interface
+-   Intent classification
+-   FastAPI backend
+-   Browser & desktop automation
+-   Execution planner
+-   CI/CD
+-   Production APIs
 
-## 📍 Currently
+### 🌍 SoftLanding
 
-* 📍 Tenerife, Spain *
-* 💼 Open to full-time / hybrid AI & backend roles *
+Applied ML platform helping users plan international relocation through
+structured workflows.
 
-## 📫 Connect
+-   Multi-head PyTorch model
+-   ML pipeline
+-   Production inference
+-   FastAPI
+-   MLflow
+-   Next.js
+-   Supabase
 
-[LinkedIn](https://linkedin.com/in/arseniy-abramidze-14946727b)
-[Email](mailto:zowel.aep@gmail.com)
+### 👁️ ARIA
+
+Edge AI assistant focused on computer vision.
+
+-   YOLOv8
+-   OpenCV
+-   Face recognition
+-   Edge inference
+-   Vision pipelines
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python • TypeScript • SQL
+
+### ML / AI
+
+PyTorch • scikit-learn • OpenCV • YOLOv8 • MLflow • NLP • Computer
+Vision
+
+### Backend
+
+FastAPI • PostgreSQL • Supabase • REST APIs
+
+### Frontend
+
+Next.js • React • Tailwind CSS
+
+### DevOps
+
+Git • GitHub Actions
+
+## 🌱 Currently Exploring
+
+-   Semantic AI
+-   AI Runtime Architecture
+-   Explicit Memory
+-   Deep Learning
+-   AI Agents
+-   Reasoning Systems
+-   Information Retrieval
+
+## 📍 Open to
+
+ML Engineer • Applied AI Engineer • AI Systems Engineer • Python Backend
+Engineer
+
+## 📫 Contact
+
+-   LinkedIn: https://linkedin.com/in/arseniy-abramidze-14946727b
+-   Email: zowel.aep@gmail.com

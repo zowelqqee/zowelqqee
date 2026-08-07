@@ -1,84 +1,130 @@
 # Hi, I'm Arseniy 👋
 
-I build AI systems, ML infrastructure, and backend software.
+**ML Engineer / AI Developer**
 
-My main interest is the engineering behind reliable AI: how models interact with memory, reasoning, retrieval, execution, and production systems.
+I build machine learning systems end-to-end — from experiments and model training to inference APIs, CI/CD, and production deployment.
 
-Currently working on **MicroWorld** — an experimental AI runtime built around explicit semantic memory and inspectable execution.
+My current work focuses on **AI systems, reasoning architectures, knowledge graphs, and reliable ML**: systems where decisions can be inspected, reproduced, and evaluated rather than treated as opaque model outputs.
 
-## Featured work
+Currently studying **Applied Mathematics and Computer Science** at Peter the Great St. Petersburg Polytechnic University.
 
-### 🧩 MicroWorld
-**Explicit semantic runtime for deterministic and auditable AI.**
+---
 
-An experimental architecture where knowledge, reasoning, dialogue state, and language generation are separate runtime components rather than one opaque inference pipeline.
+## 🧩 MicroWorld
 
-- Explicit semantic memory
-- Deterministic reasoning
-- Dialogue state & reference resolution
-- Controlled language generation
-- Knowledge ingestion pipeline
-- Inspectable execution traces
-- 1000/1000 deterministic benchmark
+**An explicit semantic runtime for deterministic and auditable AI.**
+
+MicroWorld explores an AI architecture where semantic memory, reasoning, dialogue state, and language generation are separate, inspectable runtime components.
+
+The core reasoning path does not depend on a trainable neural model.
+
+**Results:**
+- 100% accuracy on held-out compositional reasoning and paraphrased queries in the current benchmark
+- Qwen2.5 0.5B–7B baselines: 60–90% on the same evaluation
+- 100% correct abstention across evaluated test sets
 - ~8 ms p50 latency on Apple M1 CPU
-- Local CPU execution
+- Fully local execution
+- Deployed offline on an iPhone 11
 
-### 🛡️ Fraud & AML Systems
-Applying the MicroWorld architecture to financial crime and security domains.
+`Python` `FastAPI` `spaCy` `Knowledge Graphs` `Symbolic Reasoning`
 
-**microworld-fraud-safety**
-- ML-first fraud detection across four datasets
-- Graph and causal evidence
-- Leakage checks
-- Drift-aware abstention
-- Replayable safety decisions
+---
 
-**aml-semantic**
-- Portable semantic runtime evaluated across financial domains
-- Explicit rules, evidence, and auditable decisions
+## 🛡️ Fraud Detection & AML
 
-**ids-semantic**
-- Semantic reasoning layer for network intrusion detection
+I am currently testing whether the same explicit semantic architecture can transfer to real ML domains.
 
-### 🧠 micrograd
+### AML
+
+Hybrid raw + semantic features improved fraud detection by:
+
+- **+1.18 pp recall**
+- **338 fewer false positives**
+
+### IEEE-CIS Card Fraud
+
+Transferred the same architecture to a 590K-row card fraud dataset:
+
+- **+3.1 pp recall**
+- **126 additional fraud cases detected**
+
+I also document negative results and trade-offs — including cases where higher recall comes with more false positives at a fixed threshold.
+
+`Python` `Machine Learning` `Graph Reasoning` `Fraud Detection` `AML`
+
+---
+
+## 🤖 JARVIS
+
+Local AI agent for computer interaction and task execution.
+
+- Intent classification with TF-IDF + Logistic Regression
+- **97.6% accuracy** on ~4K examples
+- 15+ tracked MLflow experiments
+- FastAPI backend
+- PySide6 desktop application
+- Browser and system-level automation
+
+`Python` `scikit-learn` `FastAPI` `MLflow` `PySide6`
+
+---
+
+## 🌍 SafeLanding
+
+B2B2C relocation platform with an end-to-end ML pipeline.
+
+Built a multi-head PyTorch model for:
+
+- city ranking
+- risk prediction
+- explanation generation
+
+Trained across data for **81 cities**, with MLflow experiment tracking, FastAPI inference, continual learning from user interactions, and GitHub Actions CI/CD.
+
+`PyTorch` `FastAPI` `MLflow` `Supabase` `Next.js`
+
+---
+
+## 🧠 micrograd
+
 A tiny deep learning framework built from scratch in pure Python.
 
-- Scalar autograd engine
-- Reverse-mode backpropagation
-- Computation graphs
-- MLP implementation
-- Nonlinear classification training
-- No PyTorch
+Implemented:
 
-### 🤖 JARVIS
-Voice-first AI assistant focused on reliable task execution.
+- scalar-valued autograd
+- computation graphs
+- reverse-mode backpropagation
+- SGD
+- multilayer perceptrons
+- nonlinear classification training
 
-Intent classification, execution planning, browser and desktop automation, FastAPI services, and production APIs.
+No ML frameworks.
 
-### 🌍 SoftLanding
-Applied ML system for international relocation workflows.
+---
 
-PyTorch · ML pipelines · MLflow · FastAPI · Next.js · Supabase
+## 🔬 What I'm interested in
 
-## Stack
+Machine Learning · Deep Learning · AI Systems · Reasoning Systems · Knowledge Graphs · Explainable AI · Information Retrieval · AI Infrastructure
 
-**AI / ML**  
-PyTorch · scikit-learn · OpenCV · YOLOv8 · MLflow
+---
 
-**Systems / Backend**  
-Python · FastAPI · PostgreSQL · SQL · REST APIs
+## 🛠 Stack
 
-**Web**  
-TypeScript · Next.js · React
+**ML / AI**  
+Python · PyTorch · scikit-learn · MLflow · OpenCV · spaCy · NLP · Computer Vision
 
-**Infrastructure**  
-Git · GitHub Actions · CI/CD
+**AI Systems**  
+Knowledge Graphs · Symbolic Reasoning · RAG · LLM APIs · Vector Databases
 
-## Current interests
+**Backend / Infrastructure**  
+FastAPI · PostgreSQL · Supabase · Docker · REST APIs · GitHub Actions · CI/CD
 
-AI systems · ML infrastructure · reasoning systems · semantic memory · information retrieval · deep learning · reliable AI execution
+**Other**  
+TypeScript · C++
 
-## Contact
+---
 
-LinkedIn · arseniy-abramidze-14946727b  
-Email · zowel.aep@gmail.com
+## 📫 Contact
+
+LinkedIn: arseniy-abramidze-14946727b  
+Email: zowel.aep@gmail.com

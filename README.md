@@ -23,6 +23,8 @@
   </picture>
 </p>
 
+<h2>Contributions</h2>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -33,9 +35,8 @@
     srcset="https://raw.githubusercontent.com/zowelqqee/zowelqqee/output/github-snake.svg"
   />
   <img
-    alt="Contribution snake"
+    alt="Contribution snake animation"
     src="https://raw.githubusercontent.com/zowelqqee/zowelqqee/output/github-snake.svg"
   />
 </picture>
-
 <!-- Sections: Header, Heatmap, GitHub Stats, Projects, Connect -->

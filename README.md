@@ -1,130 +1,43 @@
-# Hi, I'm Arseniy 👋
+# zowelqqee
 
-**ML Engineer / AI Developer**
+> Memorable developer positioning.
 
-I build machine learning systems end-to-end — from experiments and model training to inference APIs, CI/CD, and production deployment.
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-My current work focuses on **AI systems, reasoning architectures, knowledge graphs, and reliable ML**: systems where decisions can be inspected, reproduced, and evaluated rather than treated as opaque model outputs.
+## Header
+Hi, I'm **zowelqqee**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=zowelqqee&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=zowelqqee&theme=github-dark" alt="zowelqqee hero section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=zowelqqee&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=zowelqqee&theme=github-dark" alt="zowelqqee stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=zowelqqee&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=zowelqqee&theme=github-dark" alt="zowelqqee projects section" />
+  </picture>
+</p>
+## Connect
+> Editing this section in the inspector.
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=zowelqqee&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=zowelqqee&theme=github-dark" alt="zowelqqee social section" />
+  </picture>
+</p>
 
-Currently studying **Applied Mathematics and Computer Science** at Peter the Great St. Petersburg Polytechnic University.
-
----
-
-## 🧩 MicroWorld
-
-**An explicit semantic runtime for deterministic and auditable AI.**
-
-MicroWorld explores an AI architecture where semantic memory, reasoning, dialogue state, and language generation are separate, inspectable runtime components.
-
-The core reasoning path does not depend on a trainable neural model.
-
-**Results:**
-- 100% accuracy on held-out compositional reasoning and paraphrased queries in the current benchmark
-- Qwen2.5 0.5B–7B baselines: 60–90% on the same evaluation
-- 100% correct abstention across evaluated test sets
-- ~8 ms p50 latency on Apple M1 CPU
-- Fully local execution
-- Deployed offline on an iPhone 11
-
-`Python` `FastAPI` `spaCy` `Knowledge Graphs` `Symbolic Reasoning`
-
----
-
-## 🛡️ Fraud Detection & AML
-
-I am currently testing whether the same explicit semantic architecture can transfer to real ML domains.
-
-### AML
-
-Hybrid raw + semantic features improved fraud detection by:
-
-- **+1.18 pp recall**
-- **338 fewer false positives**
-
-### IEEE-CIS Card Fraud
-
-Transferred the same architecture to a 590K-row card fraud dataset:
-
-- **+3.1 pp recall**
-- **126 additional fraud cases detected**
-
-I also document negative results and trade-offs — including cases where higher recall comes with more false positives at a fixed threshold.
-
-`Python` `Machine Learning` `Graph Reasoning` `Fraud Detection` `AML`
-
----
-
-## 🤖 JARVIS
-
-Local AI agent for computer interaction and task execution.
-
-- Intent classification with TF-IDF + Logistic Regression
-- **97.6% accuracy** on ~4K examples
-- 15+ tracked MLflow experiments
-- FastAPI backend
-- PySide6 desktop application
-- Browser and system-level automation
-
-`Python` `scikit-learn` `FastAPI` `MLflow` `PySide6`
-
----
-
-## 🌍 SafeLanding
-
-B2B2C relocation platform with an end-to-end ML pipeline.
-
-Built a multi-head PyTorch model for:
-
-- city ranking
-- risk prediction
-- explanation generation
-
-Trained across data for **81 cities**, with MLflow experiment tracking, FastAPI inference, continual learning from user interactions, and GitHub Actions CI/CD.
-
-`PyTorch` `FastAPI` `MLflow` `Supabase` `Next.js`
-
----
-
-## 🧠 micrograd
-
-A tiny deep learning framework built from scratch in pure Python.
-
-Implemented:
-
-- scalar-valued autograd
-- computation graphs
-- reverse-mode backpropagation
-- SGD
-- multilayer perceptrons
-- nonlinear classification training
-
-No ML frameworks.
-
----
-
-## 🔬 What I'm interested in
-
-Machine Learning · Deep Learning · AI Systems · Reasoning Systems · Knowledge Graphs · Explainable AI · Information Retrieval · AI Infrastructure
-
----
-
-## 🛠 Stack
-
-**ML / AI**  
-Python · PyTorch · scikit-learn · MLflow · OpenCV · spaCy · NLP · Computer Vision
-
-**AI Systems**  
-Knowledge Graphs · Symbolic Reasoning · RAG · LLM APIs · Vector Databases
-
-**Backend / Infrastructure**  
-FastAPI · PostgreSQL · Supabase · Docker · REST APIs · GitHub Actions · CI/CD
-
-**Other**  
-TypeScript · C++
-
----
-
-## 📫 Contact
-
-LinkedIn: arseniy-abramidze-14946727b  
-Email: zowel.aep@gmail.com
+<!-- Sections: Header, Heatmap, GitHub Stats, Projects, Connect -->
